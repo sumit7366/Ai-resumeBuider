@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="pic/poster.png" alt="Project Banner">
+    <img src="[pic/poster.png](https://github.com/sumit7366/Ai-resumeBuider/blob/main/picture/Screenshot%202025-03-04%20at%2019.40.30.png)" alt="Project Banner">
   <br />
   <br />
 

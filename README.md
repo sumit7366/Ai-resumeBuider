@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="picture/Screenshot 2025-03-04 at 19.40.30.png" alt="Project Banner">
+    <img src="picture/Screenshot 2025-03-04 at 20.20.39.png" alt="Project Banner">
   <br />
   <br />
 
@@ -116,3 +116,4 @@ Contributions are welcome! Here's how you can contribute:
 Wanna reach out to me? DM me at 👇
 
 Email: sumitranjanhisu@gmail.com# Ai-resumeBuider
+# Ai-resumeBuider
